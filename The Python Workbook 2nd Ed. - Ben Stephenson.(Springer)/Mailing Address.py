@@ -1,1 +1,0 @@
-print('Rituraj Ghosh\n1-I/1 Kanishka Road\nA-Zone\nDurgapur - 713204\nDist - Paschim Bardhamann\nWest Bengal\nIndia')

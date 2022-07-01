@@ -1,6 +1,0 @@
-p = float(input('Enter the pressure (in P): '))
-v = float(input('Enter the volume (in l): '))
-t = float(input('Enter the temperature (in K): '))
-n = (p * v) / (8.314 * t)
-n_format = "{:.2f}".format(v)
-print(f'The amount of gas is {n_format} moles')
