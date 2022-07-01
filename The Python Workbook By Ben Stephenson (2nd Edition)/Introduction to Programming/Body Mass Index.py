@@ -1,0 +1,5 @@
+height = float(input('Enter your height (in m): '))
+weight = float(input('Enter your weight (in kg): '))
+BMI = weight / (height * height)
+BMI_format = "{:.2f}".format(BMI)
+print(f'Your Body Mass Index(or BMI) is {BMI_format} kg/sq.m')
